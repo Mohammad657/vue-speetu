@@ -1,16 +1,16 @@
 <template>
   <div class="home">
     <Header msg="Header" />
-    <Header msg="About" />
-    <Footer msg="Service" />
-    <Footer msg="Support" />
-    <Footer msg="OurProjects" />
-    <Footer msg="VideoBusiness" />
-    <Footer msg="WorkProcess" />
-    <Footer msg="OurClients" />
-    <Footer msg="Testimonials" />
-    <Footer msg="Partnership" />
-    <Footer msg="RecentPosts" />
+    <About msg="About" />
+    <Service msg="Service" />
+    <Support msg="Support" />
+    <OurProjects msg="OurProjects" />
+    <VideoBusiness msg="VideoBusiness" />
+    <WorkProcess msg="WorkProcess" />
+    <OurClients msg="OurClients" />
+    <Testimonials msg="Testimonials" />
+    <Partnership msg="Partnership" />
+    <RecentPosts msg="RecentPosts" />
     <Footer msg="Footer" />
     
   </div>

@@ -25,7 +25,7 @@
 </defs>
 </svg>
 <div class="svg">
-<svg width="859" height="744" viewBox="0 0 859 744" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="859px" height="744px" viewBox="0 0 859px 744px" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M13.1756 0H859V659.593C859 659.593 506.211 784.774 362.954 728.6C219.696 672.426 253.721 540.542 216.678 407.726C179.635 274.909 41.5267 185.085 13.1756 128.282C-15.1756 71.4799 13.1756 0 13.1756 0Z" fill="url(#paint0_linear_0_5)"/>
 <defs>
 <linearGradient id="paint0_linear_0_5" x1="-431" y1="373" x2="307.52" y2="1224.38" gradientUnits="userSpaceOnUse">
@@ -35,7 +35,6 @@
 </defs>
 </svg>
 </div>
-
 
 </div>
      <!-- NAVIGATION MENU -->

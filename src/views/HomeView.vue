@@ -2,7 +2,7 @@
   <div class="home">
       <Header msg="Header" /> 
     <About msg="About" />
-    <!-- <Service msg="Service" /> -->
+    <Service msg="Service" />
     <!-- <Support msg="Support" /> -->
     <!-- <OurProjects msg="OurProjects" /> -->
     <!-- <VideoBusiness msg="VideoBusiness" /> --> 

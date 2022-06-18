@@ -168,6 +168,7 @@ left: 0px;
 top: 880px;
 background: #FFFFFF;
 } */
+
 .svg1{
 position: absolute;
 width: 280px;

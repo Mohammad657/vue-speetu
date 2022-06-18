@@ -1,7 +1,8 @@
 <template>
 
   
-        <div class="svg1">       
+        <section id="about">
+            <div class="svg1">       
 
             <svg width="61" height="280" viewBox="0 0 61 280" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M-79 280C-1.68014 280 61 217.32 61 140C61 62.6801 -1.68014 0 -79 0C-156.32 0 -219 62.6801 -219 140C-219 217.32 -156.32 280 -79 280Z" fill="url(#paint0_linear_0_178)"/>
@@ -150,6 +151,7 @@ Application
 </svg>
 
 </div>
+        </section>
 </template>
 <script>
 export default {
@@ -285,4 +287,8 @@ height: 306px;
 left: 1513px;
 top: 1594px;
   }   
+
+  #about{
+    padding-top: 40rem;
+  }
 </style>

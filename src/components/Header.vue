@@ -1,4 +1,16 @@
 <template>
+<div class="svg8">
+<svg width="1440" height="448" viewBox="0 0 1440 448" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="448" fill="url(#paint0_linear_0_4)"/>
+<defs>
+<linearGradient id="paint0_linear_0_4" x1="0" y1="0" x2="0" y2="448" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#EDECF5"/>
+</linearGradient>
+</defs>
+</svg>
+
+   </div>
   <div>
     <nav class="navbar">
      <!-- LOGO -->
@@ -141,6 +153,60 @@
 
 
    </div>
+   <div class="svg6">
+<svg width="220" height="108" viewBox="0 0 220 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_0_160)">
+<path d="M161 68C174.255 68 185 57.2548 185 44C185 30.7452 174.255 20 161 20C147.745 20 137 30.7452 137 44C137 57.2548 147.745 68 161 68Z" fill="white"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M161 36C158.827 36 158.556 36.0093 157.701 36.0493C154.795 36.1827 153.181 37.7947 153.048 40.7013C153.009 41.556 153 41.828 153 44C153 46.1733 153.009 46.4453 153.048 47.2987C153.181 50.204 154.795 51.8187 157.701 51.952C158.556 51.9907 158.827 52 161 52C163.173 52 163.445 51.9907 164.3 51.952C167.201 51.8187 168.821 50.2067 168.952 47.2987C168.991 46.4453 169 46.1733 169 44C169 41.828 168.991 41.556 168.952 40.7013C168.821 37.7987 167.207 36.1813 164.3 36.0493C163.445 36.0093 163.173 36 161 36ZM161 37.4427C163.136 37.4427 163.389 37.4507 164.233 37.4893C166.403 37.588 167.413 38.616 167.513 40.768C167.551 41.612 167.559 41.864 167.559 44C167.559 46.136 167.551 46.3893 167.513 47.232C167.413 49.3827 166.404 50.4133 164.233 50.512C163.389 50.5493 163.137 50.5587 161 50.5587C158.864 50.5587 158.611 50.5507 157.768 50.512C155.595 50.412 154.588 49.38 154.488 47.232C154.451 46.3893 154.441 46.136 154.441 44C154.441 41.864 154.451 41.6107 154.488 40.768C154.587 38.6147 155.597 37.5867 157.768 37.488C158.611 37.4493 158.864 37.4427 161 37.4427ZM156.892 44C156.892 41.7307 158.732 39.892 161 39.892C163.268 39.892 165.108 41.732 165.108 44C165.108 46.2693 163.268 48.108 161 48.108C158.732 48.108 156.892 46.2693 156.892 44ZM161 46.6667C159.527 46.6667 158.333 45.4733 158.333 44C158.333 42.528 159.527 41.3333 161 41.3333C162.472 41.3333 163.668 42.5267 163.668 44C163.668 45.4733 162.472 46.6667 161 46.6667ZM164.309 39.7307C164.309 39.2 164.74 38.7707 165.269 38.7707C165.801 38.7707 166.231 39.2 166.231 39.7307C166.231 40.2613 165.8 40.6907 165.269 40.6907C164.739 40.6907 164.309 40.26 164.309 39.7307Z" fill="#0C5A8C"/>
+<g filter="url(#filter1_d_0_160)">
+<path d="M105 68C118.255 68 129 57.2548 129 44C129 30.7452 118.255 20 105 20C91.7452 20 81 30.7452 81 44C81 57.2548 91.7452 68 105 68Z" fill="white"/>
+</g>
+<path d="M113 39.54C112.412 39.8013 111.779 39.9773 111.115 40.0573C111.793 39.6507 112.312 39.008 112.559 38.2413C111.924 38.6173 111.221 38.8907 110.473 39.0373C109.876 38.3987 109.021 38 108.079 38C105.959 38 104.401 39.9773 104.88 42.0307C102.153 41.8933 99.7333 40.5867 98.1147 38.6013C97.2547 40.076 97.6693 42.0067 99.1307 42.984C98.5933 42.9667 98.088 42.8187 97.6453 42.5733C97.6093 44.0933 98.7 45.516 100.279 45.8333C99.8173 45.9587 99.3107 45.988 98.796 45.8893C99.2133 47.1933 100.428 48.1413 101.863 48.168C100.48 49.2507 98.7427 49.7347 97 49.5293C98.4533 50.4613 100.177 51.004 102.031 51.004C108.127 51.004 111.569 45.856 111.361 41.2387C112.004 40.7773 112.56 40.1987 113 39.54Z" fill="#0C5A8C"/>
+<g filter="url(#filter2_d_0_160)">
+<path d="M49 68C62.2548 68 73 57.2548 73 44C73 30.7452 62.2548 20 49 20C35.7452 20 25 30.7452 25 44C25 57.2548 35.7452 68 49 68Z" fill="white"/>
+</g>
+<path d="M46.6667 41.3333H44V44H46.6667V52H50.6667V44H53.0933L53.3333 41.3333H50.6667V40.2227C50.6667 39.5853 50.7947 39.3333 51.4107 39.3333H53.3333V36H50.128C47.7307 36 46.6667 37.056 46.6667 39.0773V41.3333Z" fill="#0C5A8C"/>
+<defs>
+<filter id="filter0_d_0_160" x="112" y="0" width="108" height="108" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="5" dy="10"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.204965 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_160"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_160" result="shape"/>
+</filter>
+<filter id="filter1_d_0_160" x="56" y="0" width="108" height="108" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="5" dy="10"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.204965 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_160"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_160" result="shape"/>
+</filter>
+<filter id="filter2_d_0_160" x="0" y="0" width="108" height="108" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="5" dy="10"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.204965 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_160"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_160" result="shape"/>
+</filter>
+</defs>
+</svg>
+
+   </div>
+   <div class="svg7">
+<svg width="1440" height="880" viewBox="0 0 1440 880" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="880" fill="white"/>
+</svg>
+
+
+   </div>
+   
   </div>
 </template>
 <script>
@@ -159,7 +225,6 @@ export default {
  box-sizing: border-box;
 }
 body {
-  
  /* font-family: cursive; */
 }
 .svg{
@@ -230,6 +295,33 @@ height: 280px;
 left: -90px;
 top: 720px;
 
+}
+.svg6{
+  position: absolute;
+width: 160px;
+height: 48px;
+left: 1245px;
+top: 768px;
+
+}
+.svg7{
+width: 1440px;
+height: 880px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+}
+.svg8{
+position: absolute;
+width: 100%;
+height: 448px;
+left: 0px;
+top: 432px;
+
+background: linear-gradient(180deg, #FFFFFF 0%, #EDECF5 100%);
 }
 a {
  text-decoration: none;

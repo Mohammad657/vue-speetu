@@ -1,5 +1,7 @@
 <template>
-<div class="svg8">
+
+<section>
+  <div class="svg8">
 <svg width="1440" height="448" viewBox="0 0 1440 448" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="1440" height="448" fill="url(#paint0_linear_0_4)"/>
 <defs>
@@ -11,6 +13,7 @@
 </svg>
 
    </div>
+
   <div>
     <nav class="navbar">
      <!-- LOGO -->
@@ -208,6 +211,8 @@
    </div>
    
   </div>
+</section>
+  
 </template>
 <script scoped>
 export default {

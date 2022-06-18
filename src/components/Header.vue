@@ -1,6 +1,5 @@
 <template>
 
-<section>
   <div class="svg8">
 <svg width="1440" height="448" viewBox="0 0 1440 448" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="1440" height="448" fill="url(#paint0_linear_0_4)"/>
@@ -130,11 +129,11 @@
 </svg>
 
    </div>
-   <div class="svg3">
-<p>
+ 
+<p class="svg3">
   Committed to Innovative Custom-Tailored Business Solution
 </p>
-   </div>
+ 
    <div class="svg4">
 <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M40 80C62.0914 80 80 62.0914 80 40C80 17.9086 62.0914 0 40 0C17.9086 0 0 17.9086 0 40C0 62.0914 17.9086 80 40 80Z" fill="#0C5A8C"/>
@@ -210,7 +209,6 @@
    </div>
    
   </div>
-</section>
   
 </template>
 <script scoped>

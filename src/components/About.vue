@@ -1,7 +1,6 @@
 <template>
 
   
-        <section id="about">
             <div class="svg1">       
 
             <svg width="61" height="280" viewBox="0 0 61 280" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -151,7 +150,6 @@ Application
 </svg>
 
 </div>
-        </section>
 </template>
 <script>
 export default {
@@ -192,7 +190,7 @@ height: 268px;
 left: 474px;
 top: 1043px;
     }
-    .par{
+    .par p{
 position: absolute;
 width: 80px;
 height: 32px;
@@ -209,7 +207,7 @@ color: #DEA04F;
 letter-spacing: 5px;
 text-transform: uppercase;
     }
-    .par2{
+    .par2 p{
         position: absolute;
 width: 418px;
 height: 192px;
@@ -227,7 +225,7 @@ text-align: left;
 color: #333333;
 
     }
-    .par3{
+    .par3 p{
         position: absolute;
 width: 470px;
 height: 101px;

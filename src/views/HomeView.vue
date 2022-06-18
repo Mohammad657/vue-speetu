@@ -1,7 +1,7 @@
 <template>
   <div class="home">
       <Header msg="Header" /> 
-    <!-- <About msg="About" /> -->
+    <About msg="About" />
     <!-- <Service msg="Service" /> -->
     <!-- <Support msg="Support" /> -->
     <!-- <OurProjects msg="OurProjects" /> -->

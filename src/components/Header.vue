@@ -27,6 +27,9 @@
 </defs>
 </svg>
 <div class="svg">
+<img src="../assets/Rectangle.svg" alt="">
+</div>
+<!-- <div class="svg">
 <svg width="859px" height="744px" viewBox="0 0 859px 744px" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M13.1756 0H859V659.593C859 659.593 506.211 784.774 362.954 728.6C219.696 672.426 253.721 540.542 216.678 407.726C179.635 274.909 41.5267 185.085 13.1756 128.282C-15.1756 71.4799 13.1756 0 13.1756 0Z" fill="url(#paint0_linear_0_5)"/>
 <defs>
@@ -36,7 +39,7 @@
 </linearGradient>
 </defs>
 </svg>
-</div>
+</div> -->
 
 </div>
      <!-- NAVIGATION MENU -->
@@ -219,7 +222,8 @@ export default {
   },
 };
 </script>
-<style>
+<style scoped>
+
 /* UTILITIES */
 * {
  margin: 0;
@@ -236,9 +240,10 @@ border-radius: 0.1875em;
 
 .svg{
     position: absolute;
-  top: 0;
-  right: 0;
-
+  top: 0%;
+  right: 0%;
+  width: 54%;
+  height: 84%;
 }
 .svg1{
   position: absolute;

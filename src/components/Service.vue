@@ -149,6 +149,7 @@ export default {
 }
 </script>
 <style scoped>
+
     .par p{
         position: absolute;
 width: 117px;

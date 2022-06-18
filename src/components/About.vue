@@ -280,9 +280,9 @@ top: 1724px;
 }
   .svg6{
     position: absolute;
-width: 306px;
+width: 70px;
 height: 306px;
-left: 1370px;
+left: 1513px;
 top: 1594px;
   }   
 </style>

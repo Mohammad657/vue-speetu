@@ -42,12 +42,12 @@
      <ul class="nav-links">
        <!-- NAVIGATION MENUS -->
        <div class="menu">
-         <li><a href="/">Home</a></li>
-         <li><a href="/">About</a></li>
+         <li><a href="/">Projects</a></li>
+         <li><a href="/">Story</a></li>
          <li class="services">
-           <a href="/">Services</a>
+           <a href="/">Mission</a>
          </li>
-         <li><a href="/">Pricing</a></li>
+         <li><a href="/">Blog</a></li>
          <li><a href="/">Contact</a></li>
          
        </div>
@@ -224,9 +224,14 @@ export default {
  padding: 0;
  box-sizing: border-box;
 }
-body {
- /* font-family: cursive; */
+.logo {
+width: 86px;
+height: 89px;
+left: 49px;
+top: 34px;
+border-radius: 3px;
 }
+
 .svg{
     position: absolute;
   top: 0;
@@ -293,7 +298,7 @@ background: #FFFFFF;
 width: 280px;
 height: 280px;
 left: -90px;
-top: 720px;
+top: 730px;
 
 }
 .svg6{

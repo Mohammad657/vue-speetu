@@ -230,17 +230,18 @@ export default {
  box-sizing: border-box;
 }
 .logo {
-width: 86px;
-height: 89px;
-left: 49px;
-top: 34px;
-border-radius: 3px;
+width: 5.375em;
+height: 5.5625em;
+left: 3.0625em;
+top: 2.125em;
+border-radius: 0.1875em;
 }
 
 .svg{
     position: absolute;
   top: 0;
   right: 0;
+
 }
 .svg1{
   position: absolute;

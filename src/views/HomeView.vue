@@ -5,7 +5,7 @@
     <About msg="About" />
     <Service msg="Service" />
     <Support msg="Support" />
-    <!-- <OurProjects msg="OurProjects" /> -->
+    <OurProjects msg="OurProjects" />
     <!-- <VideoBusiness msg="VideoBusiness" /> --> 
     <!-- <WorkProcess title="P R O C E S S" subtitle="Work Process" />
     <OurClients msg="OurClients" /> -->

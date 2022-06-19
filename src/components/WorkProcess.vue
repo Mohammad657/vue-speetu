@@ -547,7 +547,7 @@ export default {
   },
 };
 </script>
-<style>
+<style scoped>
 #work-process {
   padding-top: 112rem;
 }

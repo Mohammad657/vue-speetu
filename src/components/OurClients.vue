@@ -157,7 +157,7 @@ export default {
     name: 'OurClients',
 }
 </script>
-<style>
+<style scoped>
     h5{
       font-family: 'Montserrat';
       font-style: normal;

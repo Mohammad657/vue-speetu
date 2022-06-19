@@ -345,8 +345,9 @@ li {
 /* NAVBAR STYLING STARTS */
 .nav-links{
     position: absolute;
-  top: 0;
-  right: 0;
+    
+margin-left: 900px;
+margin-top: -80px;
       padding-right: 100px;
     padding-top: 25px;
 }

@@ -149,7 +149,10 @@ export default {
 }
 </script>
 <style scoped>
+* {
+  max-width: 1440px;
 
+}
     .par p{
         position: absolute;
 width: 117px;

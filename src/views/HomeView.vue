@@ -7,8 +7,8 @@
     <Support msg="Support" />
     <!-- <OurProjects msg="OurProjects" /> -->
     <!-- <VideoBusiness msg="VideoBusiness" /> --> 
-    <!-- <WorkProcess title="P R O C E S S" subtitle="Work Process" />
-    <OurClients msg="OurClients" /> -->
+    <WorkProcess title="P R O C E S S" subtitle="Work Process" />
+    <OurClients msg="OurClients" />
     <!-- <Testimonials msg="Testimonials" /> -->
     <!-- <Partnership msg="Partnership" /> -->
     <!-- <RecentPosts msg="RecentPosts" /> -->

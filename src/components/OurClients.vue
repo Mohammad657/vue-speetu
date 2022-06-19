@@ -189,7 +189,7 @@ color: #333333;
 }
 
 .custom-margin{
-    margin-top: 15rem;
+    margin-top: 7rem;
 }
 
 .our-clients-center1{

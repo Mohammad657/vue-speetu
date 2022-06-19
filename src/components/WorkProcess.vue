@@ -549,7 +549,7 @@ export default {
 </script>
 <style>
 #work-process {
-  padding-top: 112rem;
+  padding-top: 160rem;
 }
 
 .title {

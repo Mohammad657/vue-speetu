@@ -549,7 +549,7 @@ export default {
 </script>
 <style>
 #work-process {
-  padding-top: 3rem;
+  padding-top: 112rem;
 }
 
 .title {
@@ -619,7 +619,7 @@ text-align: center;
 .shape-position{
     position: absolute;
     right: 0rem;
-    top: 33rem;
+    top: 210rem;
 }
 
 </style>

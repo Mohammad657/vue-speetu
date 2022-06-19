@@ -10,6 +10,7 @@
     <OurProjects msg="OurProjects" />
     <VideoBusiness msg="VideoBusiness" /> -->
     <WorkProcess title="P R O C E S S" subtitle="Work Process" />
+    <OurClients />
     <!-- <OurClients msg="OurClients" />
     <Testimonials msg="Testimonials" />
     <Partnership msg="Partnership" />

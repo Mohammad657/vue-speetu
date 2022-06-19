@@ -1,5 +1,5 @@
 <template>
-  <section id="word-process">
+  <section id="work-process">
     <div>
       <h6 class="title">{{ title }}</h6>
       <br />
@@ -11,6 +11,8 @@
         <div class="container">
         <div class="row">
           <div class="col">
+
+            <div class="custom-padding">
             <svg
               width="218"
               height="218"
@@ -72,7 +74,7 @@
                 </filter>
               </defs>
             </svg>
-
+</div>
                <h5>Understanding Business Problem</h5>
                <p>We look at your business problem and its surroundings to make sure we solve it at its best.</p>
 
@@ -508,6 +510,30 @@
       </div>
 
       </div>
+
+<div class="shape-position">
+    <svg width="225" height="306" viewBox="0 0 200 306" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M298 306C382.5 306 451 237.5 451 153C451 68.5004 382.5 0 298 0C213.5 0 145 68.5004 145 153C145 237.5 213.5 306 298 306Z" fill="url(#paint0_linear_0_1)"/>
+<path d="M36 202C55.8823 202 72 185.882 72 166C72 146.118 55.8823 130 36 130C16.1177 130 0 146.118 0 166C0 185.882 16.1177 202 36 202Z" fill="url(#paint1_linear_0_1)"/>
+<path d="M112 288C120.284 288 127 281.284 127 273C127 264.716 120.284 258 112 258C103.716 258 97 264.716 97 273C97 281.284 103.716 288 112 288Z" fill="url(#paint2_linear_0_1)"/>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="-8" y1="153" x2="298" y2="459" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3E3498"/>
+<stop offset="1" stop-color="#F5AA6B"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_1" x1="-36" y1="166" x2="36" y2="238" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3E3498"/>
+<stop offset="1" stop-color="#F5AA6B"/>
+</linearGradient>
+<linearGradient id="paint2_linear_0_1" x1="82" y1="273" x2="112" y2="303" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3E3498"/>
+<stop offset="1" stop-color="#F5AA6B"/>
+</linearGradient>
+</defs>
+</svg>
+
+</div>
+
     </div>
 
   </section>
@@ -522,8 +548,8 @@ export default {
 };
 </script>
 <style>
-#word-process {
-  padding: 6rem;
+#work-process {
+  padding-top: 3rem;
 }
 
 .title {
@@ -587,6 +613,13 @@ text-align: center;
     margin-left: 5%;
 }
 
-
+.custom-padding{
+    margin-top: 3rem;
+}
+.shape-position{
+    position: absolute;
+    right: 0rem;
+    top: 33rem;
+}
 
 </style>

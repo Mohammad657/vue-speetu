@@ -1,6 +1,5 @@
 <template>
 
-<section>
   <div class="svg8">
 <svg width="1440" height="448" viewBox="0 0 1440 448" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="1440" height="448" fill="url(#paint0_linear_0_4)"/>
@@ -28,6 +27,9 @@
 </defs>
 </svg>
 <div class="svg">
+<img src="../assets/Rectangle.svg" alt="">
+</div>
+<!-- <div class="svg">
 <svg width="859px" height="744px" viewBox="0 0 859px 744px" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M13.1756 0H859V659.593C859 659.593 506.211 784.774 362.954 728.6C219.696 672.426 253.721 540.542 216.678 407.726C179.635 274.909 41.5267 185.085 13.1756 128.282C-15.1756 71.4799 13.1756 0 13.1756 0Z" fill="url(#paint0_linear_0_5)"/>
 <defs>
@@ -37,7 +39,7 @@
 </linearGradient>
 </defs>
 </svg>
-</div>
+</div> -->
 
 </div>
      <!-- NAVIGATION MENU -->
@@ -130,11 +132,11 @@
 </svg>
 
    </div>
-   <div class="svg3">
-<p>
+ 
+<p class="svg3">
   Committed to Innovative Custom-Tailored Business Solution
 </p>
-   </div>
+ 
    <div class="svg4">
 <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M40 80C62.0914 80 80 62.0914 80 40C80 17.9086 62.0914 0 40 0C17.9086 0 0 17.9086 0 40C0 62.0914 17.9086 80 40 80Z" fill="#0C5A8C"/>
@@ -210,7 +212,6 @@
    </div>
    
   </div>
-</section>
   
 </template>
 <script scoped>
@@ -221,7 +222,8 @@ export default {
   },
 };
 </script>
-<style>
+<style scoped>
+
 /* UTILITIES */
 * {
  margin: 0;
@@ -238,9 +240,10 @@ border-radius: 0.1875em;
 
 .svg{
     position: absolute;
-  top: 0;
-  right: 0;
-
+  top: 0%;
+  right: 0%;
+  width: 54%;
+  height: 84%;
 }
 .svg1{
   position: absolute;

@@ -149,7 +149,8 @@ export default {
 }
 </script>
 <style scoped>
-    .par{
+
+    .par p{
         position: absolute;
 width: 117px;
 height: 32px;
@@ -169,7 +170,7 @@ text-transform: uppercase;
 
 color: #DEA04F;
     }
-    .par1{
+    .par1 p{
         position: absolute;
 width: 601px;
 height: 64px;
@@ -188,7 +189,7 @@ text-align: center;
 color: #333333;
     }
 
-.par2{
+.par2 p{
    position: absolute;
 width: 282px;
 height: 32px;
@@ -243,7 +244,7 @@ top: 2093px;
 
 background: #FFFFFF;
 }
-.par3{
+.par3 p{
 position: absolute;
 width: 322px;
 height: 72px;
@@ -298,7 +299,7 @@ top: 2097px;
 
 background: #FFFFFF;
 }
-.par4{
+.par4 p{
     position: absolute;
 width: 164px;
 height: 32px;
@@ -315,7 +316,7 @@ line-height: 32px;
 
 color: #333333;
 }
-.par5{
+.par5 p{
     /* Reached a great heig */
 
 text-align: left;
@@ -411,7 +412,7 @@ top: 2339px;
 
 background: #FFFFFF;
 }
-.par6{
+.par6 p{
     position: absolute;
 width: 87px;
 height: 32px;
@@ -429,7 +430,7 @@ line-height: 32px;
 color: #333333;
 
 }
-.par7{
+.par7 p{
     position: absolute;
 width: 322px;
 height: 72px;
@@ -447,7 +448,7 @@ line-height: 32px;
 color: rgba(51, 51, 51, 0.501557);
 
 }
-.par8{
+.par8 p{
     position: absolute;
 width: 179px;
 height: 32px;
@@ -465,7 +466,7 @@ line-height: 32px;
 color: #333333;
 
 }
-.par9{
+.par9 p{
     position: absolute;
 width: 322px;
 height: 72px;

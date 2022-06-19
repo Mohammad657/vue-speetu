@@ -1,21 +1,18 @@
 <template>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
   <div class="home">
-    <!-- <Header msg="Header" />
+      <Header msg="Header" /> 
     <About msg="About" />
     <Service msg="Service" />
-    <Support msg="Support" />
-    <OurProjects msg="OurProjects" />
-    <VideoBusiness msg="VideoBusiness" /> -->
-    <WorkProcess title="P R O C E S S" subtitle="Work Process" />
-    <OurClients />
-    <!-- <OurClients msg="OurClients" />
-    <Testimonials msg="Testimonials" />
-    <Partnership msg="Partnership" />
-    <RecentPosts msg="RecentPosts" />
-    <Footer msg="Footer" /> -->
+    <!-- <Support msg="Support" /> -->
+    <!-- <OurProjects msg="OurProjects" /> -->
+    <!-- <VideoBusiness msg="VideoBusiness" /> --> 
+    <!-- <WorkProcess title="P R O C E S S" subtitle="Work Process" /> -->
+    <!-- <OurClients msg="OurClients" /> -->
+    <!-- <Testimonials msg="Testimonials" /> -->
+    <!-- <Partnership msg="Partnership" /> -->
+    <!-- <RecentPosts msg="RecentPosts" /> -->
+    <!-- <Footer msg="Footer" />  -->
     
   </div>
 </template>

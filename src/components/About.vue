@@ -169,7 +169,7 @@ top: 880px;
 background: #FFFFFF;
 } */
 * {
-  max-width: 1440px;
+  max-width: 1240px;
 
 }
 .svg1{

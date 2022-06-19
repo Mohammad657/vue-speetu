@@ -285,7 +285,7 @@ export default {
 </script>
 <style scoped>
 * {
-  max-width: 1440px;
+  max-width: 1240px;
 
 }
 .svg {

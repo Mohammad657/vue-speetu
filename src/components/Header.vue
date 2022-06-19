@@ -239,11 +239,11 @@ border-radius: 0.1875em;
 }
 
 .svg{
-    position: absolute;
-  top: 0%;
-  right: 0%;
-  width: 54%;
-  height: 84%;
+position: absolute;
+width: 860px;
+height: 746px;
+margin-left: 700px;
+margin-top: -150px;
 }
 .svg1{
   position: absolute;

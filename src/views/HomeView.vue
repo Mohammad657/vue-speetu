@@ -9,8 +9,8 @@
     <!-- <VideoBusiness msg="VideoBusiness" /> --> 
     <WorkProcess title="P R O C E S S" subtitle="Work Process" />
     <OurClients msg="OurClients" />
-    <!-- <Testimonials msg="Testimonials" /> -->
-    <!-- <Partnership msg="Partnership" /> -->
+    <Testimonials />
+    <Partnership />
     <!-- <RecentPosts msg="RecentPosts" /> -->
     <!-- <Footer msg="Footer" />  -->
     

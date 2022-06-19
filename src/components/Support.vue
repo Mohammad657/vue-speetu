@@ -284,10 +284,7 @@ export default {
 };
 </script>
 <style scoped>
-* {
-  max-width: 1240px;
 
-}
 .svg {
   position: absolute;
   width: 570px;

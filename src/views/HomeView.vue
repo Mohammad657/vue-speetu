@@ -11,7 +11,7 @@
     <OurClients msg="OurClients" />
     <Testimonials />
     <Partnership />
-    <!-- <RecentPosts msg="RecentPosts" /> -->
+    <RecentPosts />
     <!-- <Footer msg="Footer" />  -->
     
   </div>

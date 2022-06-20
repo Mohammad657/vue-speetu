@@ -1,10 +1,9 @@
 <template>
     <section id="partnership">
-        <img class="press-logo" src="../assets/atlassian.svg.png" alt="atlassian" />
-        <img class="press-logo" src="../assets/slack.png" alt="slack" />
-        <img class="press-logo" src="../assets/dropbox.png" alt="dropbox" />
-        <img class="press-logo" src="../assets/shopify.png" alt="Shopify" />
-        <img class="press-logo" src="../assets/google.png" alt="google" />
+        <img class="press-logo" src="../assets/group362.svg" alt="ABC" />
+        <img class="press-logo" src="../assets/vip.55eb2c50.png" alt="vip-veradna" />
+        <img class="press-logo" src="../assets/vijn.png" alt="vijn" />
+<!--        <img class="press-logo" src="../assets/newlogo.png" alt="logo" />-->
     </section>
 </template>
 <script>

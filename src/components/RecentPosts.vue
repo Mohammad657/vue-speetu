@@ -141,4 +141,9 @@ border-radius: 24px;
 width: 10rem;
 color: #3F379B;
 }
+
+.btn-outline-primary:hover {
+    color: #FFFFFF;
+    background-color: #3F379B;
+}
 </style>

@@ -12,17 +12,9 @@ export default {
     name: 'Partnership',
 }
 </script>
-<<<<<<< HEAD
 <style scoped>
-    
-=======
-<style>
-   #partnership {
-    margin-top: 6rem;
-   }
     .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
 }
->>>>>>> 640c9adc588c27dfdaa9dc9f4c2ccba1e378f7ea
 </style>

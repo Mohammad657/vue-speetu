@@ -345,7 +345,7 @@ export default {
 </script>
 <style scoped>
 #work-process {
-  padding-top: 160rem;
+  padding-top: 210rem;
 }
 
 .title {
@@ -402,7 +402,7 @@ text-align: center;
 }
 
 .center-position2{
-    margin-left: 20%;
+    margin-left: 12%;
 }
 
 .center-position3{

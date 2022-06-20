@@ -83,9 +83,12 @@
 </defs>
 </svg>
 
+<br>
+<button type="button" class="btn custom-button">Contact us</button>
+
                      </div>
 
-<button type="button" class="btn custom-button">Contact us</button>
+
 
                     </div>
                     <div class="col-lg-6 col-md-12">
@@ -104,49 +107,16 @@ export default {
 }
 </script>
 <style scoped>
-<<<<<<< HEAD
-    
-=======
     #testimonials{
-        margin-top: 20rem;
+        margin-top: 14rem;
     }
-
-    h6 {
-        font-family: 'Montserrat';
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 32px;
-/* identical to box height, or 200% */
-
-letter-spacing: 5px;
-text-transform: uppercase;
-
-color: #DEA04F;
-
-    }
-
-    h5 {
-        font-family: 'Montserrat';
-font-style: normal;
-font-weight: 500;
-font-size: 56px;
-line-height: 64px;
-/* or 114% */
-
-
-color: #333333;
-    }
-
-    .custom-button {
-      background: #3E369A;
-      border-radius: 24px;
-      color: white;
-      width: 10rem;
+    .custom-button{
+        background: #3E369A;
+        width: 8rem;
+        border-radius: 24px;
+        color: white;
     }
     .btn:hover {
-    color: #eeeff0;
-}
-
->>>>>>> 640c9adc588c27dfdaa9dc9f4c2ccba1e378f7ea
+        color: rgb(231, 231, 231);
+    }
 </style>

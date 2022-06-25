@@ -12,7 +12,7 @@
     <Testimonials />
     <Partnership />
     <RecentPosts />
-    <!-- <Footer msg="Footer" />  -->
+    <Footer msg="Footer" /> 
     
   </div>
 </template>
@@ -31,7 +31,6 @@ import Testimonials from '@/components/Testimonials.vue'
 import VideoBusiness from '@/components/VideoBusiness.vue'
 import WorkProcess from '@/components/WorkProcess.vue'
 import Footer from '@/components/Footer.vue'
-
 
 export default {
   name: 'HomeView',
